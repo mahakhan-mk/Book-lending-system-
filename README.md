@@ -10,7 +10,7 @@ The Book Lending System (BLS) is an automated solution designed to efficiently m
 - [Other features specific to your project]
 
 ## Technology Stack
-- [List the technologies used, like programming languages, database systems, etc.]
+- Java code
 
 ## Architecture
 This project adopts the 4+1 architectural model, including:
@@ -19,7 +19,6 @@ This project adopts the 4+1 architectural model, including:
 - Process View
 - Physical view
 - Scenarios
-![Architecture Diagram](path-to-your-architecture-diagram.png)
 
 ### Class Diagram
 The class diagram illustrates the structure of the system showing the system classes, their attributes, operations (or methods), and the relationships among objects.
