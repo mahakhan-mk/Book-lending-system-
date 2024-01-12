@@ -7,7 +7,6 @@ The Book Lending System (BLS) is an automated solution designed to efficiently m
 - Real-time updates on book availability
 - Automated return processes
 - User-friendly interface for librarians
-- [Other features specific to your project]
 
 ## Technology Stack
 - Java code
